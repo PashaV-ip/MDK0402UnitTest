@@ -1,0 +1,16 @@
+D:\ИС-32\TriangleCreater\bin\Debug\TriangleCreater.exe.config
+D:\ИС-32\TriangleCreater\bin\Debug\TriangleCreater.exe
+D:\ИС-32\TriangleCreater\bin\Debug\TriangleCreater.pdb
+D:\ИС-32\TriangleCreater\obj\Debug\TriangleCreater.csproj.AssemblyReference.cache
+D:\ИС-32\TriangleCreater\obj\Debug\TriangleCreater.csproj.SuggestedBindingRedirects.cache
+D:\ИС-32\TriangleCreater\obj\Debug\TriangleCreater.csproj.CoreCompileInputs.cache
+D:\ИС-32\TriangleCreater\obj\Debug\TriangleCreater.exe
+D:\ИС-32\TriangleCreater\obj\Debug\TriangleCreater.pdb
+D:\3 Курс\МДК 04 02\Юнит тесты\MDK0402PractUnitTests-main\MDK0402PractUnitTests-main\TriangleCreaterWithTests\TriangleCreater\obj\Debug\TriangleCreater.csproj.AssemblyReference.cache
+D:\3 Курс\МДК 04 02\Юнит тесты\MDK0402PractUnitTests-main\MDK0402PractUnitTests-main\TriangleCreaterWithTests\TriangleCreater\obj\Debug\TriangleCreater.csproj.SuggestedBindingRedirects.cache
+D:\3 Курс\МДК 04 02\Юнит тесты\MDK0402PractUnitTests-main\MDK0402PractUnitTests-main\TriangleCreaterWithTests\TriangleCreater\obj\Debug\TriangleCreater.csproj.CoreCompileInputs.cache
+D:\3 Курс\МДК 04 02\Юнит тесты\MDK0402PractUnitTests-main\MDK0402PractUnitTests-main\TriangleCreaterWithTests\TriangleCreater\obj\Debug\TriangleCreater.exe
+D:\3 Курс\МДК 04 02\Юнит тесты\MDK0402PractUnitTests-main\MDK0402PractUnitTests-main\TriangleCreaterWithTests\TriangleCreater\obj\Debug\TriangleCreater.pdb
+D:\3 Курс\МДК 04 02\Юнит тесты\MDK0402PractUnitTests-main\MDK0402PractUnitTests-main\TriangleCreaterWithTests\TriangleCreater\bin\Debug\TriangleCreater.exe.config
+D:\3 Курс\МДК 04 02\Юнит тесты\MDK0402PractUnitTests-main\MDK0402PractUnitTests-main\TriangleCreaterWithTests\TriangleCreater\bin\Debug\TriangleCreater.exe
+D:\3 Курс\МДК 04 02\Юнит тесты\MDK0402PractUnitTests-main\MDK0402PractUnitTests-main\TriangleCreaterWithTests\TriangleCreater\bin\Debug\TriangleCreater.pdb
